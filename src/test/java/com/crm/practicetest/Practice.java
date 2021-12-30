@@ -5,4 +5,7 @@ public class Practice {
 	public void details (String name,String email) {
 		
 	}
+	{System.out.println("hello");
+	}		
+	}
 }
